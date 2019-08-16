@@ -60,7 +60,8 @@ ga('send', 'pageview');
     <div class="collapse navbar-collapse" id="navbarMediumish">
 
         <!-- Begin Menu -->
-
+        {% include search-lunr.html %}
+        
             <ul class="navbar-nav ml-auto">
 
                 {% if page.url == "/" %}
@@ -99,7 +100,7 @@ ga('send', 'pageview');
                 <a target="_blank" class="nav-link" href="https://www.youtube.com/damlayayinevi/"><i class="fab fa-youtube"></i></a>
                 </li>
 
-                {% include search-lunr.html %}
+                <!-- {% include search-lunr.html %} -->
 
             </ul>
 

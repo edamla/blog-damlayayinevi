@@ -30,6 +30,19 @@ comments: true
     border: 0;
     vertical-align: top;
     }
+
+    .history .featured-box {
+    text-align: left;
+    margin-left: 225px;
+    margin-bottom: 35px;
+    min-height: 115px;
+    }
+
+    .featured-box .box-content {
+    border-radius: 8px;
+    border-top: 4px solid #08c;
+    padding: 30px 20px 0;
+    }
 </style>
 <!-- <div class="row justify-content-between"> -->
 <div class="entry-content">

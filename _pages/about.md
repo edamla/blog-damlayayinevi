@@ -13,7 +13,7 @@ comments: true
     }
 
     .history .thumb {
-        background: transparent url(../images/history-thumb.png) no-repeat 0 0;
+        *background: transparent url(../images/history-thumb.png) no-repeat 0 0;
         width: 227px;
         height: 160px;
         margin: 0 0 30px;
@@ -40,7 +40,7 @@ comments: true
 
     .featured-box .box-content {
     border-radius: 8px;
-    border-top: 4px solid #08c;
+    border-top: 4px solid #7d7d7d;
     padding: 30px 20px 0;
     }
 </style>

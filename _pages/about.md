@@ -177,14 +177,14 @@ comments: true
                             <div class="box-content">
                                 <h4><strong>2004</strong></h4>
                                 <p>2004 yılında yeni altyapı ve teknolojiler ile donatılmış kendi binamıza taşındık. Bu dönemde ciddi bir sıçrama yaşadık. Ayrıca;
-                                    <br>Damlasoft
-                                    <br>Mavi Göl Yayınları
-                                    <br>D Publishing
-                                    <br>Bilgili Yayıncılık
-                                    <br>Genç Damla
-                                    <br>Minik Damla
-                                    <br>Damla Eğitim
-                                    <br>alt markaları ile Damla Yayın Grubu’nu oluşturduk. 2005 yılında değişen yeni müfredat programına en hızlı uyum sağlayan yayınevi olarak eğitim yayıncılığında önemli bir başarı elde ettik. Damla, Türkiye’de ve Avrupa’da 300’den fazla bayisi, 2000’i aşkın satış noktası, 2000'in üzerinde yayını, uluslararası alanda telif hakkı alışı-satışı, ithalatı ve ihracatı ile önde gelen yayınevlerinden biri hâline geldi.</p>
+                                    ,Damlasoft
+                                    ,Mavi Göl Yayınları
+                                    ,D Publishing
+                                    ,Bilgili Yayıncılık
+                                    ,Genç Damla
+                                    ,Minik Damla
+                                    ,Damla Eğitim
+                                    ,alt markaları ile Damla Yayın Grubu’nu oluşturduk. 2005 yılında değişen yeni müfredat programına en hızlı uyum sağlayan yayınevi olarak eğitim yayıncılığında önemli bir başarı elde ettik. Damla, Türkiye’de ve Avrupa’da 300’den fazla bayisi, 2000’i aşkın satış noktası, 2000'in üzerinde yayını, uluslararası alanda telif hakkı alışı-satışı, ithalatı ve ihracatı ile önde gelen yayınevlerinden biri hâline geldi.</p>
                             </div>
                         </div>
                     </div>

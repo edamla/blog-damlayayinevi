@@ -4,6 +4,33 @@ title: Hakkımızda
 permalink: /about
 comments: true
 ---
+
+<style>
+    .history {
+        margin: 25px 0;
+        padding: 0;
+        clear: both;
+    }
+
+    .history .thumb {
+        background: transparent url(../images/history-thumb.png) no-repeat 0 0;
+        width: 227px;
+        height: 160px;
+        margin: 0 0 30px;
+        padding: 0;
+        float: left;
+    }
+    .history .thumb img {
+    border-radius: 50%;
+    margin: 7px 8px;
+    width: 145px;
+    height: 145px;
+    }
+    img {
+    border: 0;
+    vertical-align: top;
+    }
+</style>
 <!-- <div class="row justify-content-between"> -->
 <div class="entry-content">
     <div class="row">

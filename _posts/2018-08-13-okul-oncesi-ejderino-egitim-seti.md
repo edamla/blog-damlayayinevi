@@ -27,11 +27,11 @@ Gelişim ve Davranış Değerlendirmesi (Karne) 1 Adet
 Boy-Kilo Grafiği 1 Adet  
 Klasör çanta hediyeli.
 
-<img class="alignnone size-full wp-image-2024" src="wp-content/uploads/2018/08/ejderino-seti-detay.jpg" alt="" width="768" height="768" sizes="(max-width: 768px) 100vw, 768px" /> 
+<img src="wp-content/uploads/2018/08/ejderino-seti-detay.jpg" alt="" width="768" height="768" sizes="(max-width: 768px) 100vw, 768px" /> 
 
 **Ejderino Eğitim Seti**’nin içindeki sayfalara asetatlı etkinlikler, kabartmalı etkinlikler, kazı kazanlı etkinlikler, karton sayfalar, oluklu çalışma sayfaları, sihirli çubuk sayfaları ve çıkartma etiketleri kullanılmıştır. Çocukların ilgilerini çekmek, odaklanmalarını sağlamak, meraklarını arttırmak, öngörülerini pekiştirmek, farklı düşünmelerini sağlamak, el becerilerini desteklemek amacıyla farklı materyallerle ve farklı amaçlarla hazırlanmış sayfalara yer verilmiştir.
 
-<img class="alignnone size-full wp-image-2021" src="wp-content/uploads/2018/08/ejderino.jpg" alt="" width="900" height="378" sizes="(max-width: 900px) 100vw, 900px" /> 
+<img src="wp-content/uploads/2018/08/ejderino.jpg" alt="" width="900" height="378" sizes="(max-width: 900px) 100vw, 900px" /> 
 
 **EJDERİNE EĞİTİM SETİ,**  
 Çoklu Öğrenme Modeline göre hazırlanmış;  

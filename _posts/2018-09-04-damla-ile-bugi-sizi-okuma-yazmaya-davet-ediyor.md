@@ -12,7 +12,7 @@ image: wp-content/uploads/2018/09/damla-bugi-sarki.png
 rating: 4
 ---
 
-<img class="wp-image-2034 alignleft" src="https://blog.damlayayinevi.com.tr/wp-content/uploads/2018/09/8697911201644.png" alt="" width="381" height="339" srcset="https://blog.damlayayinevi.com.tr/wp-content/uploads/2018/09/8697911201644.png 600w, https://blog.damlayayinevi.com.tr/wp-content/uploads/2018/09/8697911201644-300x267.png 300w" sizes="(max-width: 381px) 100vw, 381px" />
+<img class="wp-image-2034 alignleft" src="wp-content/uploads/2018/09/8697911201644.png" alt="" width="381" height="339" sizes="(max-width: 381px) 100vw, 381px" />
 
 Damla ile Bugi İlk Okuma Yazma Eğitim Seti,  MEB’in yayınladığı yeni programa uygun olarak hazırlanmıştır. Kahramanımız Uzaylı Bugi, uzaydan Türkiye’ye gelen ve dilimizi okuyup yazmaya çalışan sevimli bir kahramandır.  
 İlk Okumaya Hazırlık  aşamasındaki etkinlikler bu yaş grubu öğrencilerinin özellikleri ve motor gelişimleri (el-parmak kasları) dikkate alınarak öğretmen rehberliğinde gerçekleştirilecek etkinlikler olarak planlanmıştır.  

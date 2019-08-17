@@ -7,7 +7,7 @@ categories: [ Fuar ]
 featured: false
 tags: [aylık dil edebiyat ve kültür dergisi, dil ve edebiyat dergisi, Oku mecmuası]
 image: wp-content/uploads/2018/09/oku-dergisi-dil-edebiyat-dergisi.jpg
-rating: 4
+#rating: 4
 ---
 Dergicilik ve yayıncılık zor zanaat. Ama bu alanda heyecanla hizmet edenler var. Babıali&#8217;den ayrılmamanın ayrıcalığını yaşayan Mehmet Nuri Yardım ile Türkiye&#8217;de dergiler ve dergiciliği, Oku mecmuasını ve yayıncılığı konuştuk. Uğur Canbolat.
 

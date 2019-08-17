@@ -30,4 +30,4 @@ Hızlı Okuma Kitabı, Türkçe programındaki son değişiklikler ve ilk okuma-
 
 Damla ile Bugi Matematik Öğreniyor, MEB Birinci Sınıf Yeni Matematik Programı temel alınarak hazırlanmıştır.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MnSQIbquNu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MnSQIbquNu8?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

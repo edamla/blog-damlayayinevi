@@ -43,6 +43,4 @@ PISA’da; çoktan seçmeli, karmaşık çoktan seçmeli, açık uçlu, kapalı 
 
 Damla Yayınevi olarak 2018-2019 MEB Müfredatına uygun konu özetli soru bankalarımıza  [buradan](https://www.damlayayinevi.com.tr/catalogsearch/result/index/?cat=&infinite=true&&q=PiSA+SORU+BANKAS%C4%B0)ulaşabilirsiniz.
 
-<a href="https://www.damlayayinevi.com.tr/catalogsearch/result/index/?cat=&infinite=true&&q=PiSA+SORU+BANKAS%C4%B0" target="_blank"><img src="wp-content/uploads/2018/09/Pisa-Soru-Bankasi.jpg" ></a>
-
 Kaynak: [http://pisa.meb.gov.tr/](http://pisa.meb.gov.tr/)

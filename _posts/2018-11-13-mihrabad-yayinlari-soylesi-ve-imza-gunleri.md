@@ -2,9 +2,12 @@
 layout: post
 title: "Mihrabad Yayınları Söyleşi ve İmza Günleri"
 date: 2018-11-13T18:24:48+00:00
+featured: false
+tags: [fuar, kitap fuarı, üsküdar]
 #author: damlayayinevi
-
 categories: [ Fuar ]
+featured: false
+tags: [fuar, kitap fuarı]
 image: wp-content/uploads/2018/11/BANNER2.png
 ---
 <h3 style="text-align: center;">

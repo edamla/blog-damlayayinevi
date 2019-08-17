@@ -8,7 +8,7 @@ featured: false
 tags: [Damla ile Bugi,
        okul öncesi,
        okul öncesi şarkısı]
-image: wp-content/uploads/2018/09/pisa-soru-bankalari.jpg
+image: wp-content/uploads/2018/09/damla-bugi-sarki.png
 rating: 4
 ---
 

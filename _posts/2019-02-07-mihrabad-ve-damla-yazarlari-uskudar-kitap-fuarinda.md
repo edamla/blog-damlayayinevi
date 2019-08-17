@@ -2,7 +2,9 @@
 layout: post
 title: "MİHRABAD VE DAMLA YAZARLARI ÜSKÜDAR KİTAP FUARINDA"
 #author: damlayayinevi
-categories: [ Jekyll, tutorial ]
+categories: [ Fuar ]
+featured: false
+tags: [fuar, kitap fuarı, üsküdar]
 image: wp-content/uploads/2019/02/BLOG-BANNER.jpg
 beforetoc: "Mihrabad ve Damla Yazarları 5. Üsküdar Kitap Fuarı’nda Damla ve Mihrabad yazarları 9 Şubat Cumartesi günü açılışı yapılacak olan 5. "
 toc: true

@@ -258,7 +258,7 @@ span.post-read-more a:hover {
     border-radius: 30px;
     overflow: hidden;
     border: 1px solid rgba(0, 0, 0, 0.09);
-    min-width: 180px;
+    min-width: 300px;
 }
 
 .mediumnavigation .form-inline {

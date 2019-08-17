@@ -100,4 +100,4 @@ Anladığım kadarıyla yayın yelpazeniz bir hayli geniş. Bu kadar geniş yay�
 
 Teşekkürler.
 
-![](wp-content/uploads/2018/09/pisa-sorubankasi-milliyet.jpg)
+<img src="wp-content/uploads/2018/09/pisa-sorubankasi-milliyet.jpg">

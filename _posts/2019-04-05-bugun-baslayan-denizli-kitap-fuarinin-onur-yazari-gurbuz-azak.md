@@ -4,6 +4,7 @@ title: "Bugün Başlayan Denizli Kitap Fuarı’nın Onur Yazarı Gürbüz Azak"
 #author: damlayayinevi
 categories: [ Fuar ]
 tags: [fuar, kitap fuarı, denizli]
+featured: false
 image: wp-content/uploads/2019/04/4-Gürbüz-Azak81.jpg
 ---
 

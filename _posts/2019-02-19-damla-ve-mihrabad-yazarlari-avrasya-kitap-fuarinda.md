@@ -3,6 +3,7 @@ layout: post
 title: "DAMLA VE MİHRABAD YAZARLARI AVRASYA KİTAP FUARI’NDA"
 #author: damlayayinevi
 categories: [ Fuar ]
+featured: false
 image: wp-content/uploads/2019/02/BLOG-BANNER-1.jpg
 ---
 Yenikapı’da yeni başlayacak olan 1. Avrasya Kitap Fuarı’na sayılı günler kaldı.

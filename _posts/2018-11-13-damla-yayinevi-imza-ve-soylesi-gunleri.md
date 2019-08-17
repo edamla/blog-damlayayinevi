@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Damla Yayınları İmza ve Söyleşi Günleri"
+title: "Damla Yayınevi İmza ve Söyleşi Günleri"
 date: 2018-11-13T17:40:07+00:00
 #author: damlayayinevi
 categories: [ Fuar ]
@@ -14,7 +14,7 @@ rating: 4.5
 </h3>
 
 <h3 style="text-align: center;">
-  DAMLA YAYINLARI SÖYLEŞİ VE İMZA GÜNLERİ
+  DAMLA YAYINEVİ SÖYLEŞİ VE İMZA GÜNLERİ
 </h3>
 
 ###

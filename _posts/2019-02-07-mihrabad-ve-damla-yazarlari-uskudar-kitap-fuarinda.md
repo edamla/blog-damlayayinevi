@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "MİHRABAD VE DAMLA YAZARLARI ÜSKÜDAR KİTAP FUARINDA"
+date: 2019-02-07T15:09:51+00:00
 #author: damlayayinevi
 categories: [ Fuar ]
 featured: false
 tags: [fuar, kitap fuarı, üsküdar]
 image: wp-content/uploads/2019/02/BLOG-BANNER.jpg
-beforetoc: "Mihrabad ve Damla Yazarları 5. Üsküdar Kitap Fuarı’nda Damla ve Mihrabad yazarları 9 Şubat Cumartesi günü açılışı yapılacak olan 5. "
-toc: true
+#beforetoc: "Mihrabad ve Damla Yazarları 5. Üsküdar Kitap Fuarı’nda Damla ve Mihrabad yazarları 9 Şubat Cumartesi günü açılışı yapılacak olan 5. "
+#toc: true
 ---
 Mihrabad ve Damla Yazarları 5. Üsküdar Kitap Fuarı’nda Damla ve Mihrabad yazarları 9 Şubat Cumartesi günü açılışı yapılacak olan 5.  
 Üsküdar Kitap Fuarı’na iştirak edecekler. Ahmet Maraşlı, Elif Sönmezışık, Hasan Basri Bilgin, Mehmet Nuri Yardım, Murat Başaran, Nehir Aydın Gökduman, Nurettin Taşkesen, Sencer Olgun ve Zafer Bilgi, fuarda düzenlenecek sohbetlerde konuşmacı olacak ve okuyucularına kitaplarını imzalayacaklar. 9 Şubat’ta açılacak olan fuar, 17 Şubat Pazar gününe kadar ziyaret edilebilecek.

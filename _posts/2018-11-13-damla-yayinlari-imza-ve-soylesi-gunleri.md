@@ -7,7 +7,7 @@ categories: [ Fuar ]
 featured: false
 tags: [37. istanbul tüyap kitap fuarı, kitap fuarı, imza günü]
 image: wp-content/uploads/2018/11/BANNER1.jpg
-rating: 3
+rating: 4.5
 ---
 <h3 style="text-align: center;">
   37. ULUSLARARASI İSTANBUL TÜYAP KİTAP FUARI

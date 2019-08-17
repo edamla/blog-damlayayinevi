@@ -4,7 +4,7 @@ title: "Damla İle Bugi İlk Okuma Yazma Eğitim Seti Tanıtım Filmi"
 date: 2018-09-14T18:50:30+00:00
 #author: damlayayinevi
 categories: [ ilkokul ]
-featured: true
+featured: false
 tags: [1.sınıf, mini mini birler, ilk okuma yazma]
 image: wp-content/uploads/2018/09/damla-bugi-vide.png
 rating: 4

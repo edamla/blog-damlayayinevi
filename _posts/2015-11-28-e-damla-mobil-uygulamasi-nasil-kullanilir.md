@@ -6,7 +6,6 @@ layout: post
 
 image: wp-content/uploads/2015/11/akod-nasil-kullanilir.jpg
 categories:
-  - AKOD
   - Basında Biz
 tags:
   - akod

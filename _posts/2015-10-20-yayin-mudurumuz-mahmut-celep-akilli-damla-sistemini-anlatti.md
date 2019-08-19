@@ -1,14 +1,10 @@
 ---
-id: 673
 title: 'Yayın Müdürümüz Mahmut Celep Akıllı Damla Sistemi&#8217;ni Anlattı'
-date: 2015-10-20T23:51:52+00:00
-author: damlayayinevi
+# date: 2015-10-20T23:51:52+00:00
+# author: damlayayinevi
 layout: post
-guid: http://blog.damlayayinevi.com.tr/?p=673
-permalink: /2015/yayin-mudurumuz-mahmut-celep-akilli-damla-sistemini-anlatti/
-tie_sidebar_pos:
-  - default
-image: /wp-content/uploads/2015/10/akilli-damla-mahmut-celep.jpg
+
+image: wp-content/uploads/2015/10/akilli-damla-mahmut-celep.jpg
 categories:
   - Basında Biz
 tags:

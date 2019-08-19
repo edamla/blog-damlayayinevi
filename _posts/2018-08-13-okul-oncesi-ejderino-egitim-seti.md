@@ -9,7 +9,6 @@ tags: [damla ejderino seti,
        ejderino seti,
        ejderino seti nedir,
        okul öncesi seti]
-]
 image: wp-content/uploads/2018/09/damla-bugi-sarki.png
 rating: 3.5
 ---

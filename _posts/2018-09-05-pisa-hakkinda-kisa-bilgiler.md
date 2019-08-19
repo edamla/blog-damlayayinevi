@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "PİSA Hakkında Kısa Bilgiler"
-date: 2018-09-05T10:18:23+00:00
+#date: 2018-09-05T10:18:23+00:00
 #author: damlayayinevi
 categories: [ Ortaokul ]
-featured: false
+featured: true
 tags: [meb pisa uyumlu soru bankası,
        pisa konu özetli soru bankaları,
        pisa nedir,

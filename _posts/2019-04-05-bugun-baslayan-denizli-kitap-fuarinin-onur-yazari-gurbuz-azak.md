@@ -6,7 +6,7 @@ date: 2019-04-05T16:55:43+00:00
 categories: [ Fuar ]
 tags: [fuar, kitap fuarı, denizli]
 featured: false
-image: wp-content/uploads/2019/04/4-Gürbüz-Azak81.jpg
+image: wp-content/uploads/2019/04/4-Gurbuz-Azak81.jpg
 ---
 
 Kitap fuarları yurdun bir çok bölgesinde aralıksız devam ediyor. Ege Bölgesi’nin en büyük kitap fuarı olan Denizli Büyükşehir Belediyesi Kitap Fuarı’nın 3’ncüsü bugün başladı. Gürbüz Azak’ın ‘Onur Yazarı’ olduğu fuar, 14 Nisan gününe kadar açık olacak. Fuar hergün 10.00-20.00 saatleri arasında ziyaret edilebilecek. Fuarla ilgili ayrıntılı bilgi [www.denizlikitapfuari.org](http://www.denizlikitapfuari.org/) adresinden öğrenilebilecek. Gürbüz Azak’ın Mihrabad Yayınları’ndan _Osmanlı’da Darbeler &nbsp;İhanetler İsyanlar_, _Deli Yusuf_ ve _Bâbıâli’den Geçen Adamlar_ isimli eserleri çıktı. Yazarın yeni kitapları da aynı yayınevinden kültür hayatımıza kazandırılacak.  

@@ -8,7 +8,6 @@ featured: false
 tags: [islamın ilk emri oku,
        oku dergisi,
        sefa saygılı]
-]
 image: wp-content/uploads/2018/07/Sefa-Saygili.jpg
 rating: 3.5
 ---

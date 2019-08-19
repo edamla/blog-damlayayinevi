@@ -7,7 +7,7 @@ categories: [Basında biz]
 tags: [TV, Zafer Bilgi, Fatih Sultan Mehmet]
 image: wp-content/uploads/2019/08/zb1.jpg
 description: "Zafer Bilgi, Bengü Türk TV'de"
-featured: true
+featured: false
 # hidden: true
 rating: 4.5
 ---

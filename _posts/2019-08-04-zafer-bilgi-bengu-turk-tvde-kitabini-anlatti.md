@@ -3,7 +3,7 @@ layout: post
 title: 'Zafer Bilgi, Bengü Türk TV&#8217;de kitabını anlattı'
 #author: damlayayinevi
 date: 2019-08-04T12:44:29+00:00
-categories: [Basında biz]
+categories: [Basında Biz]
 tags: [TV, Zafer Bilgi, Fatih Sultan Mehmet]
 image: wp-content/uploads/2019/08/zb1.jpg
 description: "Zafer Bilgi, Bengü Türk TV'de"

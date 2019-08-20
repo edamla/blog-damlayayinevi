@@ -3,7 +3,7 @@ layout: post
 title: "Ahmet Maraşlı: Şiirlerimde Hep Allah’ı Zikretmek İstedim"
 date: 2018-07-02T11:19:43+00:00
 #author: damlayayinevi
-categories: [ Basında biz ]
+categories: [ Basında Biz ]
 tags: [ahmet maraşlı,
       mihrabad yayınları,
       şiir]

@@ -2,7 +2,7 @@
 id: 39
 title: 'Bloom Taksonomisi’ne Göre Ölçme Değerlendirme Sistemi &#8211; Türkçe'
 date: 2015-09-03T10:16:39+00:00
-author: damlayayinevi
+# author: damlayayinevi
 layout: post
 guid: http://blog.damlayayinevi.com.tr/?p=39
 permalink: /2015/bloom-taksonomisine-gore-olcme-degerlendirme-sistemi-turkce/

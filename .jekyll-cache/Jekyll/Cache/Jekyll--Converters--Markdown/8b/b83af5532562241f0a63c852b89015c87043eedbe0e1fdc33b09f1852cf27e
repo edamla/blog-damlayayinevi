@@ -1,4 +1,4 @@
-I"n
+I"�m
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -6,6 +6,70 @@
         <h2><span>Öne Çıkanlar</span></h2>
     </div>
     <div class="row">
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="/blog-damlayayinevi/pisa-nedir-neden-onemlidir/">
+                            
+                            <img class="featured-box-img-cover lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/blog-damlayayinevi/assets/images/oecd-pisa.png" />
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="/blog-damlayayinevi/pisa-nedir-neden-onemlidir/">PİSA Nedir, Neden Önemlidir?</a>
+                                
+                                <div class="mb-2 mt-2 font-weight-normal">
+                                <div class="rating-holder">
+<div class="c-rating c-rating--regular" data-rating-value="5">
+  <button>1</button>
+  <button>2</button>
+  <button>3</button>
+  <button>4</button>
+  <button>5</button>
+</div>
+</div>
+                                </div>
+                                
+                            </h2>
+
+                            <h4 class="card-text">
+PİSA nedir? Neden Önemlidir?
+</h4>
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                
+                                <span class="post-date">20 Aug 2019</span>
+                                &lt;/span&gt;
+                                <span class="post-read-more"><a href="/blog-damlayayinevi//pisa-nedir-neden-onemlidir/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
 
     
 
@@ -98,69 +162,6 @@
         
 
     
-
-        
-
-    
-
-        
-
-            <!-- begin post -->
-
-<div class="col-md-6 mb-30px">
-    <div class="listfeaturedtag h-100">
-        <div class="row h-100">
-            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-                <div class="h-100">
-                    <div class="wrapthumbnail">
-                        <a href="/blog-damlayayinevi/pisa-hakkinda-kisa-bilgiler/">
-                            
-                            <img class="featured-box-img-cover lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/blog-damlayayinevi/wp-content/uploads/2018/09/pisa-soru-bankalari.jpg" />
-                            
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-12 col-lg-7">
-                <div class="h-100 card-group">
-                    <div class="card">
-                        <div class="card-body">
-                            <h2 class="card-title">
-                                <a class="text-dark" href="/blog-damlayayinevi/pisa-hakkinda-kisa-bilgiler/">PİSA Hakkında Kısa Bilgiler</a>
-                                
-                                <div class="mb-2 mt-2 font-weight-normal">
-                                <div class="rating-holder">
-<div class="c-rating c-rating--regular" data-rating-value="4">
-  <button>1</button>
-  <button>2</button>
-  <button>3</button>
-  <button>4</button>
-  <button>5</button>
-</div>
-</div>
-                                </div>
-                                
-                            </h2>
-
-                            <h4 class="card-text">PİSA NEDİR?
-</h4>
-                        </div>
-                        <div class="card-footer b-0 bg-white mt-auto">
-                            <div class="wrapfooter">
-                                
-                                <span class="post-date">05 Sep 2018</span>
-                                &lt;/span&gt;
-                                <span class="post-read-more"><a href="/blog-damlayayinevi//pisa-hakkinda-kisa-bilgiler/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                                <div class="clearfix"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
 
         
 
@@ -661,6 +662,58 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
+            <a href="/blog-damlayayinevi/pisa-nedir-neden-onemlidir/">
+                
+
+                    
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/blog-damlayayinevi/assets/images/oecd-pisa.png" alt="PİSA Nedir, Neden Önemlidir?" />
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/blog-damlayayinevi/pisa-nedir-neden-onemlidir/">PİSA Nedir, Neden Önemlidir?</a>
+                
+                <div class="mb-2 mt-2 font-weight-normal">
+                <div class="rating-holder">
+<div class="c-rating c-rating--regular" data-rating-value="5">
+  <button>1</button>
+  <button>2</button>
+  <button>3</button>
+  <button>4</button>
+  <button>5</button>
+</div>
+</div>
+                </div>
+                
+            </h2>
+            <h4 class="card-text">
+PİSA nedir? Neden Önemlidir?
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="post-date">20 Aug 2019</span>
+                &lt;/span&gt;
+                <span class="post-read-more"><a href="/blog-damlayayinevi/pisa-nedir-neden-onemlidir/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
             <a href="/blog-damlayayinevi/zafer-bilgi-bengu-turk-tvde-kitabini-anlatti/">
                 
 
@@ -854,59 +907,6 @@
                 <span class="post-date">13 Nov 2018</span>
                 &lt;/span&gt;
                 <span class="post-read-more"><a href="/blog-damlayayinevi/mihrabad-yayinlari-soylesi-ve-imza-gunleri/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-
-        
-
-        <!-- begin post -->
-
-
-<div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/blog-damlayayinevi/damla-yayinevi-imza-ve-soylesi-gunleri/">
-                
-
-                    
-                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/blog-damlayayinevi/wp-content/uploads/2018/11/BANNER1.jpg" alt="Damla Yayınevi İmza ve Söyleşi Günleri" />
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/blog-damlayayinevi/damla-yayinevi-imza-ve-soylesi-gunleri/">Damla Yayınevi İmza ve Söyleşi Günleri</a>
-                
-                <div class="mb-2 mt-2 font-weight-normal">
-                <div class="rating-holder">
-<div class="c-rating c-rating--regular" data-rating-value="4.5">
-  <button>1</button>
-  <button>2</button>
-  <button>3</button>
-  <button>4</button>
-  <button>5</button>
-</div>
-</div>
-                </div>
-                
-            </h2>
-            <h4 class="card-text">
-  37. ULUSLARARASI İSTANBUL TÜYAP KİTAP FUARI
-
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                
-                <span class="post-date">13 Nov 2018</span>
-                &lt;/span&gt;
-                <span class="post-read-more"><a href="/blog-damlayayinevi/damla-yayinevi-imza-ve-soylesi-gunleri/" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
                 <div class="clearfix"></div>
             </div>
         </div>

@@ -18,3 +18,5 @@ Mehmet Nuri Yardım,
 
 Yazar ve Çizer Nur Dombaycı, 
 >çocuk kitaplarında korkunç çizimlerin olduğunu söylerken, çizimlerin çocukları irite edecek, uyuduklarında bile korkuyla uyanmalarına sebep olacağı uyarısında bulundu. Dombaycı, şunları ekledi: "Anne ve babalar bunları seçerken çok dikkatli olmaları lazım. Çizerlerin, küçük bir çocuğun o çizimlere bakacağını unutmamaları lazım. Çünkü çocuklar çizimlerle daha çok iletişim kurabiliyorlar."
+
+<iframe src="https://www.youtube.com/embed/Kjmg5hcZ7ic?rel=0&amp;enablejsapi=1&amp;wmode=opaque" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

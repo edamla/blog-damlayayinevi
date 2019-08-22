@@ -8,7 +8,7 @@ featured: true
 tags: [çocuk kitapları,
 a haber, çocuk çizimler, mehmet nuri yardım, nur dombaycı, çocuk edebiyatı]
 image: assets/images/ahaber1.jpg
-rating: 4.5
+#rating: 4.5
 ---
 # Yazarlarımız Çocuk kitapları ilişkin demeç verdi
 Çocuklara **kitap okuma** alışkanlığı edindirmek kazandırılması gereken alışkanlıkların başında geliyor. Bu alışkanlığın geliştirilmesinde ailenin rol modelliği kadar yazarların çocuk kitaplarında işledikleri metin ve çizimler de önemli. Yazarlarımızdan Mehmet Nuri Yardım ve Nur Dombaycı, çocuk kitaplarındaki içeriklerin önemine ilişkin A Haber'e demeç verdi.

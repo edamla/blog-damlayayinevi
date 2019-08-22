@@ -5,7 +5,7 @@ title: 'Okuma Alışkanlığını &#8216;Cingöz&#8217;den Kazandık'
 # author: damlayayinevi
 
 categories: [Kültür, Basında Biz]
-featured: true
+featured: false
 tags: [cingöz recai,
        divanyolu sohbetleri,
        okuma alışkanlığı,

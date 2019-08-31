@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Okul Öncesi Planlar &#8211;'
+title: 'Okul Öncesi Tam ve Yarım Günlük Planlar 2019-2020 &#8211;'
 # date: 2019-08-28T10:45:40+00:00
 # author: damlayayinevi
 
@@ -16,9 +16,9 @@ image: wp-content/uploads/2017/08/planlar2017.jpg
 ---
 
 Minik Damlalar Eğitim Seti ( Montessori Destekli ) tam günlük planları  
-**<a href="https://blog.damlayayinevi.com.tr/wp-content/uploads/2016/09/minikdamla-tamgun-plan.zip" target="_blank" rel="noopener"><strong>indirmek için tıklayın.</strong></a>**
+**<a href="https://e-damla.ams3.digitaloceanspaces.com/PLANLAR/minikdamla_planlar.zip" target="_blank" rel="noopener"><strong>indirmek için tıklayın.</strong></a>**
 
-Minik Damlalar Eğitim Seti ( Montessori Destekli ) yarım günlük planları <a href="https://blog.damlayayinevi.com.tr/wp-content/uploads/2016/09/minikdamla-yarimgun-plan.zip" target="_blank" rel="noopener"><strong>indirmek için tıklayın.</strong></a>
+Minik Damlalar Eğitim Seti ( Montessori Destekli ) yarım günlük planları <a href="https://e-damla.ams3.digitaloceanspaces.com/PLANLAR/minikdamla_planlar.zip" target="_blank" rel="noopener"><strong>indirmek için tıklayın.</strong></a>
 
 Uzaylı Bugi Eğitim Seti ( Reggio Emilia Destekli ) tam günlük planları  
 <a href="https://blog.damlayayinevi.com.tr/wp-content/uploads/2016/09/uzaylibugi-tamgun-plan.zip" target="_blank" rel="noopener"><strong>indirmek için tıklayın.</strong></a>

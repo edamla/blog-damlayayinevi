@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Okul Öncesi Tam ve Yarım Günlük Planlar 2019-2020 &#8211;'
-# date: 2019-08-28T10:45:40+00:00
+# date: 2015-09-03T10:10:07+00:00
 # author: damlayayinevi
 
 categories:

@@ -12,7 +12,7 @@ tags:
   - Minik Karamela
   - tam günlük planlar
   - Uzaylı Bugi Eğitim Seti
-image: wp-content/uploads/2017/09/planlar2019.jpg
+image: wp-content/uploads/2019/09/planlar2019.jpg
 ---
 
 2019-2020 Minik Damlalar Eğitim Seti ( Montessori Destekli ) planları  

@@ -1,18 +1,22 @@
 ---
 layout: post
 title: 'Okul Öncesi Planlar 2019-2020'
-# date: 2019-09-09T10:45:40+00:00
-# author: damlayayinevi
+#date: 2019-09-09T10:45:40+00:00
+#author: damlayayinevi
 
 categories:
   - Basında Biz
   - Okul Öncesi
+  
+featured: true
+
 tags:
   - eğitim planları
   - Minik Karamela
   - tam günlük planlar
   - Uzaylı Bugi Eğitim Seti
 image: wp-content/uploads/2019/09/planlar2019.jpg
+#rating: 5
 ---
 
 2019-2020 Minik Damlalar Eğitim Seti ( Montessori Destekli ) planları  

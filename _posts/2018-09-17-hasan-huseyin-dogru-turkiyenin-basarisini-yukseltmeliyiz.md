@@ -4,7 +4,7 @@ title: 'Hasan Hüseyin Doğru &#8211; Türkiye&#8217;nin Başarısını Yükselt
 date: 2018-09-17T17:33:04+00:00
 #author: damlayayinevi
 categories: [ Basında Biz ]
-featured: true
+#featured: true
 tags: [Pisa, Pisa nedir, röportaj]
 image: wp-content/uploads/2018/09/pisa-roportaj-banner.jpg
 rating: 4.5

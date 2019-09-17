@@ -4,7 +4,7 @@ title: "Yazarlarımız çocuk kitaplarına ilişkin demeç verdi"
 #date: 2019-08-20T10:18:23+00:00
 #author: damlayayinevi
 categories: [ Basında Biz ]
-featured: true
+#featured: true
 tags: [çocuk kitapları,
 a haber, çocuk çizimler, mehmet nuri yardım, nur dombaycı, çocuk edebiyatı]
 image: assets/images/ahaber1.jpg

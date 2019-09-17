@@ -5,7 +5,7 @@ title: Reggio Emilia Yöntemi ile Harika Çocuklar Yetiştirmek
 # author: damlayayinevi
 
 categories: [ Okul Öncesi ]
-featured: true
+#featured: true
 tags: [Reggio Emilia,
        Reggio Emilia Nedir,
        Reggio Emilia Yöntemi]

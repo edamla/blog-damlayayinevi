@@ -5,8 +5,8 @@ date: 2019-10-11T10:18:23+00:00
 author: damlayayinevi
 categories: [ Basında Biz ]
 featured: true
-tags: [çocuk kitapları,
-a haber, çocuk çizimler, mehmet nuri yardım, nur dombaycı, çocuk edebiyatı]
+tags: [nurettin taşkesen,
+endülüs fatihleri, türkiye yazarlar birliği]
 image: assets/images/nurettintaskesen.jpg
 rating: 4.5
 ---

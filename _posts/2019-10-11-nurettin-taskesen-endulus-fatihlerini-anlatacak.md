@@ -7,7 +7,7 @@ categories: [ Basında Biz ]
 featured: true
 tags: [çocuk kitapları,
 a haber, çocuk çizimler, mehmet nuri yardım, nur dombaycı, çocuk edebiyatı]
-image: assets/images/ahaber1.jpg
+image: nurettin-taskesen.JPG
 rating: 4.5
 ---
 

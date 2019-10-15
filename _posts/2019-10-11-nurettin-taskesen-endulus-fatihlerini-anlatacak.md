@@ -2,7 +2,7 @@
 layout: post
 title: "NURETTİN TAŞKESEN, ENDÜLÜS FATİHLERİ'Nİ TYB İSTANBUL'DA ANLATACAK"
 date: 2019-10-11T10:18:23+00:00
-author: damlayayinevi
+# author: damlayayinevi
 categories: [ Basında Biz ]
 featured: true
 tags: [nurettin taşkesen,

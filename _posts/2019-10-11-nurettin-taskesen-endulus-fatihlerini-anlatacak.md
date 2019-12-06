@@ -4,7 +4,7 @@ title: "NURETTİN TAŞKESEN, ENDÜLÜS FATİHLERİ'Nİ TYB İSTANBUL'DA ANLATACA
 date: 2019-10-11T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Basında Biz ]
-featured: true
+featured: false
 tags: [nurettin taşkesen,
 endülüs fatihleri, türkiye yazarlar birliği]
 image: assets/images/nurettintaskesen.jpg

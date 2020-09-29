@@ -3,7 +3,7 @@ layout: post
 title: "UZAKTAM EĞİTİMDE DİKKAT EDİLMESİ GEREKENLER"
 date: 2019-10-11T10:18:23+00:00
 # author: damlayayinevi
-categories: [ Eğitim ]
+categories: [ İlkokul ]
 featured: true
 tags: [eba, uzaktan eğitim]
 image: assets/images/eba.jpg

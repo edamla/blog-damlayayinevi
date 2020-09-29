@@ -7,7 +7,7 @@ categories: [ İlkokul ]
 featured: true
 tags: [eba, uzaktan eğitim]
 image: assets/images/eba.jpg
-rating: 5
+rating: 4.5
 ---
 
 1. Eğitim Bilişim Ağı (EBA) sisteminin sahtesine maruz kalmadığınıza emin olun

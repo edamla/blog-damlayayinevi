@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UZAKTAM EĞİTİMDE DİKKAT EDİLMESİ GEREKENLER"
+title: "UZAKTAN EĞİTİMDE DİKKAT EDİLMESİ GEREKENLER"
 date: 2020-09-28T10:18:23+00:00
 # author: damlayayinevi
 categories: [ İlkokul ]

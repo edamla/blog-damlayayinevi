@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "STEM-A Nedir?"
-date: 2020-10-1T10:18:23+00:00
+date: 2020-10-01T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Okul Öncesi ]
 featured: true

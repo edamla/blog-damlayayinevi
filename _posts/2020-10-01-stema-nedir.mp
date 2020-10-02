@@ -6,7 +6,7 @@ date: 2020-10-01T10:18:23+00:00
 categories: [ Okul Öncesi ]
 featured: true
 tags: [STEMA, okul öncesi, fen bilimleri, eğitim, matematik]
-image: assets/images/stema1.png
+image: assets/images/stema.jpg
 rating: 4.5
 
 ![](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/stema1.png)

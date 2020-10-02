@@ -4,7 +4,7 @@ title: "DAMLA VE MİHRABAD YAZARLARI 38. İSTANBUL TÜYAP KİTAP FUARINDA"
 date: 2019-10-11T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Fuar ]
-featured: true
+featured: false
 tags: [tüyap, istanbul kitap fuarı, damla yayınevi, mihrabad yayınları]
 image: assets/images/2-damla-mihrabad-tüyap-afişi.jpg
 rating: 4.5

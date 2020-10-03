@@ -1,15 +1,28 @@
 ---
 layout: post
-title: "STEM-A NEDİR?"
-date: 2020-10-01T10:18:23+00:00
+title: "MATEMATİK DİJİTAL İÇERİKLERİ"
+date: 2020-10-03T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Ortaokul ]
 featured: true
 tags: [türkçe, eba, uzaktan eğitim, pdf kitap]
-image: assets/images/stema.jpg
+image: assets/images/matematik.jpg
 rating: 4.5
 
 ---
+
+
+### **Değerli Öğretmenlerimiz,**
+
+Kovid-19 salgını ile okullar ve sizler genellikle uzaktan eğitim üzerine odaklanmak durumunda kaldınız. Bu durumda evdeki bilgisayar ve internet gibi olanakların kalitesi ve hızı önem kazandı.
+
+Tespitlerimize göre uzaktan bağlantı ve ekran paylaşım programları verimli bir şekilde kullanılamamaktadır.
+
+>Bu durumu çözebilmek için kendinden PDF görüntüleyicisi ve dijital kalem ile not alma özelliği bulunan daha sade dijital kitapları oluşturduk. Bu sadeleştirilmiş dijital kitapları aşağıdaki listeden bulabilir ve indir linkine tıklayarak bilgisayarınıza indirebilirsiniz.
+
+**Bu indirmeleri düzenlemesi ve olası kopma durumlarında kaldığı yerden devam edebilmesi için Free Download Manager programını kullanmanızı tavsiye ediyoruz.**
+
+>Ders Anlatım videoları, interaktif uygulamalar ve diğer dijital özelliklere sahip tam dijital içeriğe öğretmenlerimiz www.e-damla.com.tr adresinden ulaşabilirler.
 
 
 

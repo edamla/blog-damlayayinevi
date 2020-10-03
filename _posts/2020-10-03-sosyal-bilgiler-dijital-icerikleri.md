@@ -11,7 +11,6 @@ rating: 4.5
 
 ---
 
-
 ### **Değerli Öğretmenlerimiz,**
 
 Kovid-19 salgını ile okullar ve sizler genellikle uzaktan eğitim üzerine odaklanmak durumunda kaldınız. Bu durumda evdeki bilgisayar ve internet gibi olanakların kalitesi ve hızı önem kazandı.

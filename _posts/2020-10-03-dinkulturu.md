@@ -3,7 +3,7 @@ layout: post
 title: "DİN KÜLTÜRÜ DİJİTAL İÇERİKLERİ"
 date: 2020-10-03T10:18:23+00:00
 # author: damlayayinevi
-categories: [ Okul Öncesi ]
+categories: [ Ortaokul ]
 featured: true
 tags: [din kültürü, eba, dijital içerik, pdf kitap, konu anlatım, ders notları]
 image: assets/images/dinkültürü.jpg

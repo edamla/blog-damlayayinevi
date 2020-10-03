@@ -3,9 +3,9 @@ layout: post
 title: "STEM-A NEDİR?"
 date: 2020-10-01T10:18:23+00:00
 # author: damlayayinevi
-categories: [ Okul Öncesi ]
+categories: [ Ortaokul ]
 featured: true
-tags: [STEMA, okul öncesi, fen bilimleri, eğitim, matematik]
+tags: [türkçe, eba, uzaktan eğitim, pdf kitap]
 image: assets/images/stema.jpg
 rating: 4.5
 

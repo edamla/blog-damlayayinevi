@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FEN BİLİMLERİ DİJİTAL İÇERİKLERİ"
+title: "EBA UZAKTAN EĞİTİM SİSTEMİNDE KULLANILABİLİR FEN BİLİMLERİ DİJİTAL İÇERİKLERİ"
 date: 2020-10-03T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Ortaokul ]
@@ -22,23 +22,23 @@ Tespitlerimize göre uzaktan bağlantı ve ekran paylaşım programları verimli
 
 **Bu indirmeleri düzenlemesi ve olası kopma durumlarında kaldığı yerden devam edebilmesi için Free Download Manager programını kullanmanızı tavsiye ediyoruz.**
 
->Ders Anlatım videoları, interaktif uygulamalar ve diğer dijital özelliklere sahip tam dijital içeriğe öğretmenlerimiz www.e-damla.com.tr adresinden ulaşabilirler.
+>Ders Anlatım videoları, interaktif uygulamalar ve diğer dijital özelliklere sahip tam dijital içeriğe öğretmenlerimiz [www.e-damla.com.tr](https://www.e-damla.com.tr) adresinden ulaşabilirler.
 
 
-[Fen Bilimleri Soru Bankası 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-fen-sorubankasi.exe)
-[Fen Bilimleri Yaprak Test 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-fen-yapraktest.exe)
-[Fen Bilimleri Soru Bankası 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-fen-sorubankasi.exe)
-[Fen Bilimleri Yaprak Test 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-fen-yapraktest.exe)
-[Fen Bilimleri Soru Bankası 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-fen-sorubankasi.exe)
-[Fen Bilimleri Yaprak Test 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-fen-yapraktest.exe)
-[Fen Bilimleri Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-sorubankasi.exe)
-[Fen Bilimleri Yaprak Test 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-yapraktest.exe)
-[Fen Bilimleri Föy 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-foy.exe)
-[Fen Bilimleri Föy Öğretmen 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-foyogretmen.exe)
-[Tüm Dersler Soru Bankası 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-td-sorubankasi.exe)
-[Tüm Dersler Soru Bankası 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-td-sorubankasi.exe)
-[Tüm Dersler Soru Bankası 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-td-sorubankasi.exe)
-[Tüm Dersler Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-td-sorubankasi.exe)
-[LGS 3Lü Deneme 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-lgs3ludeneme.exe)
-[Lgs Tekrar Kampı 1.Dönem 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-lgstekrarkampi1donem.exe)
-[Tüm Dersler Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-td-sorubankasi.exe)
+- [Fen Bilimleri Soru Bankası 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-fen-sorubankasi.exe)
+- [Fen Bilimleri Yaprak Test 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-fen-yapraktest.exe)
+- [Fen Bilimleri Soru Bankası 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-fen-sorubankasi.exe)
+- [Fen Bilimleri Yaprak Test 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-fen-yapraktest.exe)
+- [Fen Bilimleri Soru Bankası 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-fen-sorubankasi.exe)
+- [Fen Bilimleri Yaprak Test 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-fen-yapraktest.exe)
+- [Fen Bilimleri Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-sorubankasi.exe)
+- [Fen Bilimleri Yaprak Test 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-yapraktest.exe)
+- [Fen Bilimleri Föy 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-foy.exe)
+- [Fen Bilimleri Föy Öğretmen 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-fen-foyogretmen.exe)
+- [Tüm Dersler Soru Bankası 5](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/5-td-sorubankasi.exe)
+- [Tüm Dersler Soru Bankası 6](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/6-td-sorubankasi.exe)
+- [Tüm Dersler Soru Bankası 7](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/7-td-sorubankasi.exe)
+- [Tüm Dersler Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-td-sorubankasi.exe)
+- [LGS 3Lü Deneme 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-lgs3ludeneme.exe)
+- [Lgs Tekrar Kampı 1.Dönem 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-lgstekrarkampi1donem.exe)
+- [Tüm Dersler Soru Bankası 8](https://cdn.e-damla.com.tr/PUBLIC/flippdfs/8-td-sorubankasi.exe)

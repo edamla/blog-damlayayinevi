@@ -4,7 +4,7 @@ title: "HÜSEYİN DOĞRU: KİTAPLA TEMAS AZALABİLİR"
 date: 2020-10-16T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Basında Biz ]
-featured: false
+featured: true
 tags: [hüseyin doğru,
 pandemi, yeni şafak kitap, damla yayınevi]
 image: assets/images/ysafak-kitap.JPG

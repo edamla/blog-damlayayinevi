@@ -11,9 +11,11 @@ image: assets/images/ysafak-kitap.jpg
 rating: 4.5
 ---
 
-#GENEL MÜDÜRÜMÜZ HÜSEYİN DOĞRU: KİTAPLA TEMAS AZALABİLİR#
+![enter image description here](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/ysafak-kitap.jpg)
 
-Genel Müdürümüz Hüseyin Doğru, Yeni Şafak Kitap ekine konuştu:
+##GENEL MÜDÜRÜMÜZ HÜSEYİN DOĞRU: KİTAPLA TEMAS AZALABİLİR
+
+#Genel Müdürümüz Hüseyin Doğru, Yeni Şafak Kitap ekine konuştu:
 
 Mart ayındaki Pandemi mevcut üretimlerimizi ve mevcut siparişlerimizi birdenbire etkilemedi ama süreç içerisinde, okulların açılıp açılmayacağının belli olmaması nedeniyle kitabevleri önünü göremediği için siparişleri çok çok azalttı biz de baskı tirajlarımızı buna göre azalttık. Eğitim yayınlarını %75 seviyesinde baskılarını azaltarak yaptık, yani %25 azalttık.. Çocuk kitaplarını ise acil olanları, talep görenleri, yeni hazırlık yapılmış tam da baskı aşamasına gelmiş olanları bastık. Çünkü Mart Nisan Mayıs aylarında internet satışı patlaması yaşadık. Ama acil olmayanları sezona erteledik. Önümüzdeki dönemde daha ziyade çocuk yayınlarına ve kültür yayınlarına ağırlık veriyoruz.
 

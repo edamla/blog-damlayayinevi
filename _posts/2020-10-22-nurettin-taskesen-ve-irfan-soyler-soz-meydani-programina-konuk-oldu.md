@@ -11,7 +11,7 @@ image: assets/images/tek1.jpg
 rating: 4.5
 ---
 
-![enter image description here](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/tek1.jpg)
+![](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/tek1.jpg)
 
 [Programı izlemek için tıklayın](https://www.youtube.com/watch?v=6YWq3Twr9KU)
 

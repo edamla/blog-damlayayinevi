@@ -11,6 +11,6 @@ image: assets/images/tek1.jpg
 rating: 4.5
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6YWq3Twr9KU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[enter link description here](https://www.youtube.com/watch?v=6YWq3Twr9KU)
 
 Yazarlarımız Nurettin Taşkesen ve İrfan Söyler, Akit TV'de Söz Meydanı programına konuk oldu. İrfan Söyler'in Ezansız "Yıllar" kitabı ve Nurettin Taskeşen'in "Kurtuba'nın Altın Çağı" kitabı konuşuldu.

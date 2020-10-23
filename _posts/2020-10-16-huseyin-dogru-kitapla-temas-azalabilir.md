@@ -7,7 +7,7 @@ categories: [ Basında Biz ]
 featured: true
 tags: [hüseyin doğru,
 pandemi, yeni şafak kitap, damla yayınevi]
-image: assets/images/ysafak-kitap.JPG
+image: assets/images/ysafak-kitap.jpg
 rating: 4.5
 ---
 

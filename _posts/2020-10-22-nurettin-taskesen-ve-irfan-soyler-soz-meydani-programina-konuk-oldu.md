@@ -5,8 +5,8 @@ date: 2020-10-22T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Basında Biz ]
 featured: true
-tags: [hüseyin doğru,
-pandemi, yeni şafak kitap, damla yayınevi]
+tags: [nurettin taşkesen,
+irfan söyler, akit tv, söz meydanı, ezansız yıllar]
 image: assets/images/tek1.jpg
 rating: 4.5
 ---

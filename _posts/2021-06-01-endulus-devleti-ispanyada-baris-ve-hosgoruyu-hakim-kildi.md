@@ -11,7 +11,7 @@ image: assets/images/edib1.jpg
 rating: 4.8
 ---
 
-Nurettin Taşkesen
+<b>Nurettin Taşkesen</b>
 “Endülüs Devleti, İspanya’da Barış ve Hoşgörüyü Hâkim Kıldı”
 
 Tarihimiz gündemde. Televizyonlarda programlar yapılıyor. Yeni kitaplar yayınlanıyor ve tarihî bir çok meseleyi devamlı olarak konuşuyoruz. Şüphesiz bu son derece önemlidir. Zira tarihini bilmeyenler, mazisinden habersiz olanlar kaybetmeye ve hüsrana mahkumdur. Tarih geçmişi anlatırken geleceği de aydınlatır, günümüze ışık düşürür. Alınması gereken derslere işaret eder. Bu bakımdan Türk tarihini, İslâm tarihini, Osmanlı ve Selçuklu tarihini bilmemiz, o devirlere hakkıyla vâkıf olmamız gerekiyor. Bu alanda kıymetli eserleri kaleme alan yazarlar dan biri de araştırmacı yazar Nurettin Taşkesen. Taşkesen Filistin, Kudüs ve Orta Doğu’nun tarihini inceleyen ve bu alanda değerli belge romanlara imza atan bir yazarımız. Taşkesen son olarak 800 yıl Endülüs Medeniyeti ve Devleti’nin hüküm sürdüğü Endülüs’e (İspanya) gitti ve araştırmalar yaptı. Müslümanların yok edilemeyen eserlerini gördü. Dönüşte de bize Endülüs Fatihleri Tarık bin Ziyad isimli güzel bir eser armağan etti. Devam edecek olan bu seri romanlarla biz İslam tarihinde önemli bir şeref dönemi olan Endülüs’ü daha iyi tanıyacağız. Nurettin Taşkesen ile Endülüs merkezli bir konuşma yaptık. Faydalı olması dileğiyle.
@@ -20,7 +20,7 @@ Tarihimizin değişik dönemlerin de yaşanmış olayları, zaferleri ve fetihle
 
 Evet, tarih kitapları, üniversite seviyesinde akademik çalışmalar olduğu için halkın ve gençliğin istifadesi az oluyor. Yakın zamana kadar yazılan tarihî romanlar ise gerçek olaylardan ve şahıslardan uzak, masa başında kurgulanmış eserlerdi. Son yıllarda belgelere dayalı olarak tarihî konuların veya kahramanların romanlaştırılması, çok önemli bir boşluğu doldurdu. Tarihî roman konusunda rahmetli Mehmed Niyazi, bir çığır açmıştır. Ben de elimden geldiği kadar onu takip etmeye çalışıyorum. Bir doktora tezi yapar gibi çok derin araştırmalardan sonra, konu ile ilgili bölgeyi ziyaret ederek ‘tarihin ruhu’nu yakalamaya çalışıyorum.
 
-![](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/edib2.jpg)
+![]<img src="https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/edib2.jpg" alt="">
 
 Bilhassa Osmanlı Tarihi, İslam Tarihi, Türk Tarihi ve yakın tarihimiz, ilgi alanınıza giriyor. Toplumun bu konulara yaklaşımı dün nasıldı, bugün nasıldır? Düne kadar kendi öz tarihimize biraz mesafeli hatta soğuk yaklaştığımız biliniyor. Ama görünen o ki artık tarihimizle barışıyoruz. Bu gelişmeleri nasıl buluyorsunuz?
 

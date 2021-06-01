@@ -20,7 +20,7 @@ Tarihimizin değişik dönemlerin de yaşanmış olayları, zaferleri ve fetihle
 
 Evet, tarih kitapları, üniversite seviyesinde akademik çalışmalar olduğu için halkın ve gençliğin istifadesi az oluyor. Yakın zamana kadar yazılan tarihî romanlar ise gerçek olaylardan ve şahıslardan uzak, masa başında kurgulanmış eserlerdi. Son yıllarda belgelere dayalı olarak tarihî konuların veya kahramanların romanlaştırılması, çok önemli bir boşluğu doldurdu. Tarihî roman konusunda rahmetli Mehmed Niyazi, bir çığır açmıştır. Ben de elimden geldiği kadar onu takip etmeye çalışıyorum. Bir doktora tezi yapar gibi çok derin araştırmalardan sonra, konu ile ilgili bölgeyi ziyaret ederek ‘tarihin ruhu’nu yakalamaya çalışıyorum.
 
-![]<img src="https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/edib2.jpg" alt="">
+![]<img src="assets/images/edib2.jpg" alt="">
 
 Bilhassa Osmanlı Tarihi, İslam Tarihi, Türk Tarihi ve yakın tarihimiz, ilgi alanınıza giriyor. Toplumun bu konulara yaklaşımı dün nasıldı, bugün nasıldır? Düne kadar kendi öz tarihimize biraz mesafeli hatta soğuk yaklaştığımız biliniyor. Ama görünen o ki artık tarihimizle barışıyoruz. Bu gelişmeleri nasıl buluyorsunuz?
 

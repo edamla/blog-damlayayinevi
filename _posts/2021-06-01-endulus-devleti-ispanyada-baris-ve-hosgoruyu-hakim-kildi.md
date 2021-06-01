@@ -26,7 +26,7 @@ Evet, tarih kitapları, üniversite seviyesinde akademik çalışmalar olduğu i
 
 Maalesef bizim neslin okuduğu tarih kitaplarında Türk ve İslam Tarihi yanlışlarla doluydu. Tabii bazı kasıtlı suçlamalar da vardı. Sultan Abdülhamid Han’a “Kızıl Sultan”, Son Padişah Vahdettin’e “Vatan ha ini” deniyordu. Bugün bu yalanlara kimse inanmıyor. Abdülhamid Han’ın “Aksultan” olduğu, Padişah Vahdettin’in “Vatansever” olduğunu artık herkes öğrendi. Resmî tarih dayatmasının yerini, belgeli doğru tarih alıyor. Bu çok sevindirici bir gelişme.
 
-![](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/edib3.jpg)
+![](https://raw.githubusercontent.com/edamla/blog-damlayayinevi/master/assets/images/edib3.jpg)
 
 **Yeni eseriniz Endülüs Fatihleri Tarık bin Ziyad, Mihrabad Yayınları tarafından neşredildi. Son kitap fuarında da gördük ki hem bu eseriniz, hem de diğer belge romanlarınız ilgi görüyor. Öncelikle şunu sormak istiyorum. Endülüs tarihini yazmak gündeminize nasıl girdi?**
 
@@ -54,7 +54,7 @@ Tarık bin Ziyad’ın 12 bin as kerle, İspanya’ya çıktığının üçünc�
 
 **Bugün İslam dünyasının hâli ortada. Ne yazık ki paramparça... Size göre Müslümanlar dünkü tarihlerini, elde ettikleri zaferleri bilirlerse bugün kendilerinde daha çok güç bulabilirler mi, yani geçmişten ders almalı mı Müslümanlar…**
 
-![](https://github.com/edamla/blog-damlayayinevi/blob/master/assets/images/edib4.jpg)
+![](https://raw.githubusercontent.com/edamla/blog-damlayayinevi/master/assets/images/edib4.jpg)
 
 Millî şairimiz Mehmed Âkif Ersoy, “Tarihi tekerrür diye tarif ediyorlar. Hiç ibret alınsaydı tekerrür mü ederdi?” diyor. İslam Tarihi’ne baktığımızda aynı oyunların tekrarlandığını, aynı hataların yeniden yapıldığını görüyoruz. Emperyalist güçler, doğrudan baş edemediği devletleri içten çökertmeye çalışmış ve başarmışlar. Gönderdikleri casuslar, içeriden işbirlikçi hainlerle el ele verip ayrılık ve fitne tohumları ekerek Müslümanları bölüp parçalamışlar. Mesela Selahaddin Eyyubi zamanındaki İslam dünyası ile bugünün Müslümanları arasında çok büyük benzerlikler var. Selahaddin Eyyubi nasıl ki Müslümanları birleştirerek Kudüs’ü Haçlılardan geri aldıysa, bugün de İslam ülkeleri aynı şekilde güç birliği oluşturup, Kudüs dahil her problemin üstesinden gelebilir.
 

@@ -73,3 +73,4 @@ Kültür ve medeniyetin temel kaynağı kitaplardır. Eğer sinema filmleri ve t
 Evet, bu yıl üçüncü defa katıldığım Tüyap Kitap Fuarında gençlerin, velilerin ve öğrencilerin yoğun ilgisini gördüm. Bu çok sevindirici bir gelişme. Anadolu’daki fuarlarında da aynı şekilde misafir yazarlara büyük alaka var. Gençleri internet bağımlısı olmaktan kurtarıp faydalı kitaplara yönlendirebilirsek, bu Türkiye’nin geleceği için çok önemli bir kazanç olur.
 
 
+*Eğitim Dünyası - Sayı 6 - 2020*

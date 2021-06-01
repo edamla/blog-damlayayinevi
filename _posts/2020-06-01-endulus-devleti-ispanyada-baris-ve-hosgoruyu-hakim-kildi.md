@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ENDÜLÜS DEVLETİ, İSPANYA'DA BARIŞ VE HOŞGÖRÜYÜ HAKİM KILDI"
-date: 2020-10-28T10:18:23+00:00
+date: 2021-06-01T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Kültür ]
 featured: true

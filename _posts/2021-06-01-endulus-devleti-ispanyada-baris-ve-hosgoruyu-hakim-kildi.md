@@ -11,8 +11,8 @@ image: assets/images/edib1.jpg
 rating: 4.8
 ---
 
-## Nurettin Taşkesen
-### “Endülüs Devleti, İspanya’da Barış ve Hoşgörüyü Hâkim Kıldı”
+### Nurettin Taşkesen
+# “Endülüs Devleti, İspanya’da Barış ve Hoşgörüyü Hâkim Kıldı”
 
 Tarihimiz gündemde. Televizyonlarda programlar yapılıyor. Yeni kitaplar yayınlanıyor ve tarihî bir çok meseleyi devamlı olarak konuşuyoruz. Şüphesiz bu son derece önemlidir. Zira tarihini bilmeyenler, mazisinden habersiz olanlar kaybetmeye ve hüsrana mahkumdur. Tarih geçmişi anlatırken geleceği de aydınlatır, günümüze ışık düşürür. Alınması gereken derslere işaret eder. Bu bakımdan Türk tarihini, İslâm tarihini, Osmanlı ve Selçuklu tarihini bilmemiz, o devirlere hakkıyla vâkıf olmamız gerekiyor. Bu alanda kıymetli eserleri kaleme alan yazarlar dan biri de araştırmacı yazar Nurettin Taşkesen. Taşkesen Filistin, Kudüs ve Orta Doğu’nun tarihini inceleyen ve bu alanda değerli belge romanlara imza atan bir yazarımız. Taşkesen son olarak 800 yıl Endülüs Medeniyeti ve Devleti’nin hüküm sürdüğü Endülüs’e (İspanya) gitti ve araştırmalar yaptı. Müslümanların yok edilemeyen eserlerini gördü. Dönüşte de bize Endülüs Fatihleri Tarık bin Ziyad isimli güzel bir eser armağan etti. Devam edecek olan bu seri romanlarla biz İslam tarihinde önemli bir şeref dönemi olan Endülüs’ü daha iyi tanıyacağız. Nurettin Taşkesen ile Endülüs merkezli bir konuşma yaptık. Faydalı olması dileğiyle.
 

@@ -7,13 +7,10 @@ categories: [ Kültür ]
 featured: true
 tags: [zenci musa, osmanlı, kitap, kuşçubaşı eşref]
 image: assets/images/zencimusa.jpg
-rating: 5.0
+rating: 4
 ---
 
-### Ak Yürekli Bir Osmanlı Cengaveri: Kuşçubaşı Eşref’in Fedaisi Zenci Musa
-# ELİF ÇELİK
-
-Aslen Sudanlı olan ve Girit’te bir Türk mahallesinde doğan Zenci Musa’nın hayatı maceralarla doludur. Osmanlı âşığı bu şanlı asker, Trablusgarb’ta, Balkanlar’da, Yemen çöllerinde ve son olarak İstanbul’da İstiklal Harbi için savaştı.
+Aslen Sudanlı olan ve Girit’te bir Türk mahallesinde doğan Zenci Musa’nı2n hayatı maceralarla doludur. Osmanlı âşığı bu şanlı asker, Trablusgarb’ta, Balkanlar’da, Yemen çöllerinde ve son olarak İstanbul’da İstiklal Harbi için savaştı.
 
 Sudanlı Zenci Musa, Teşkilat-ı Mahsusa Reisi Kuşçubaşı Eşref Bey ile Libya çöllerinde İtalyanlara karşı gösterilen mücadele sırasında tanışır. Kahramanlığını gören Eşref Bey, onu yanına alır “emir eri” yapar. Artık bütün vazifelerde komutanın hep yanındadır ve âdeta onun sağ koludur. Balkan Harbi sırasında Edirne’nin geri alınması sırasında Zenci Musa’yı yine ön saflarda görürüz. Devlet ve millet aşkıyla dolu olan kahramanımızı, bazen gizli bir görevle 300 bin altını kızgın çöllerden geçerek ve İngiliz kuvvetlerini atlatarak Yemen’e ulaştırmaya çalışırken, bazen de Karaköy limanında hamallık yaparken bazen de İstiklal Harbi için Anadolu’ya silah kaçırırken görürüz.
 
@@ -29,10 +26,12 @@ Harun Çolak’ın Mihrabad Yayınları’ndan çıkan Sudanlı Zenci Musa adlı
 
 Silah arkadaşları ona “Ulubatlı Hasan” derlermiş. Bu toprakların vatan olmasında büyük emeği olan, ümmet şuuruna sahip bulunan son Osmanlılardan Sudanlı Zenci Musa’ya Allah’tan rahmet diliyoruz. Ruhu şad, mekânı cennet olsun.
 
-**Sudanlı Zenci Musa
-**Harun Çolak
-**Mihrabad Yayınları
-**İstanbul, 2019
-**192 sayfa
+- **Sudanlı Zenci Musa**
+- **Harun Çolak**
+- **Mihrabad Yayınları**
+- **İstanbul, 2019**
+- **192 sayfa**
 
-*Eğitim Dünyası - Sayı 6 - 2020*
+**Eğitim Dünyası - Sayı 6 - 2020**
+
+ELİF ÇELİK

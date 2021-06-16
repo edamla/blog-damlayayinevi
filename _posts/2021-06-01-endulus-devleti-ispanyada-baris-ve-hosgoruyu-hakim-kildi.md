@@ -5,8 +5,7 @@ date: 2021-06-01T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Kültür ]
 featured: true
-tags: [nurettin taşkesen,
-endülüs devleti, ispanya, tarih, kitap]
+tags: [nurettin taşkesen, endülüs devleti, ispanya, tarih, kitap]
 image: assets/images/edib1.jpg
 rating: 4.8
 ---

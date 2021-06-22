@@ -27,12 +27,12 @@ Selçuklular 1040 Dandanakan Savaşı ile İslam dünyasına adım attıklarınd
 
 Bugüne kadar, Türk tarihinin bölümlere, dönemlere ayrılması, okuyucuya sunulan eserlerde Selçuklu Tarihi’nin geri planda kalmasına yol açmıştır. Akademik hayatta, uzmanlaşma anlamında gerekli olsa da bir Türk evladının, beylikten kıtalara hükmeden büyük Osmanlı İmparatorluğu’nun devlet yapısı ve gücünü anlaması için, bugün var olduğu Türkiye Cumhuriyeti’nin köklerinin ne kadar güçlü bir tarihten beslendiğini idrak etmesi için, tarihini homojen olarak incelemesi, Selçuklu padişahlarını, devlet adamlarını tanıması ve öğrenmesi zorunluluktur. Bu noktadan hareketle, genel olarak akademik bir üslup ile yazılmış Selçuklu tarihi eserlerine nazaran, son derece akıcı bir üslup görüyoruz. Kitap, Selçuklu tarihine genel bir bakış ve Alparslan, Malazgirt Zaferi, Melik Şah dönemine dair fikir edinmeyi, bunu yaparken de keyifle, sıkılmadan, tarihinin her dönemi ile barışık olmayı, okuyucuya vaat ediyor.
 
-- **Sudanlı Zenci Musa**
-- **Harun Çolak**
+- **Alparslan ve Malazgirt Zaferi**
+- **Sara Gürbüz Özeren**
 - **Mihrabad Yayınları**
 - **İstanbul, 2019**
-- **192 sayfa**
+- **336 sayfa**
 
 **Eğitim Dünyası - Sayı 6 - 2020**
 
-ELİF ÇELİK
+HÜLYA GÜNAY

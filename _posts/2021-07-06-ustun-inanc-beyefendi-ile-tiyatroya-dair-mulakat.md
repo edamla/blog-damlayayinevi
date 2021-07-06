@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Üstün İnanç Beyefendi ile Tiyatroya Dair Mülakat"
-date: 2021-06-28T10:18:23+00:00
+date: 2021-07-06T10:18:23+00:00
 # author: damlayayinevi
 categories: [ Kültür ]
 featured: true
